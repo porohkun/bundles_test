@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1713815334
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 671564ec1e75873b5f75e187139d53cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Achievements/1_13.png
+- Assets/Achievements/1_12.png
+- Assets/Achievements/1_18.png
+- Assets/Achievements/1_19.png
+- Assets/Achievements/1_17.png
+- Assets/Achievements/1_15.png
+- Assets/Achievements/1_11.png
+- Assets/Achievements/1_16.png
+- Assets/Achievements/1_14.png
+- Assets/Achievements/1_20.png
+Dependencies: []
